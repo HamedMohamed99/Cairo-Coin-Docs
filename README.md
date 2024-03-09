@@ -75,7 +75,7 @@ In this phase, advanced algorithms are developed to effectively extract and clea
     
 -   Incorporating error handling and data validation procedures to maintain data integrity throughout the extraction process.
 
-The scraping code is executed using Google Apps Script within Google Sheets [Github repo](https://github.com/)
+The scraping code is executed using Google Apps Script within Google Sheets [Github repo](https://github.com/HamedMohamed99/Cairo-Coin-Data)
 
 
 
@@ -153,7 +153,7 @@ graph TD;
 
 ```
 
-The scraping code is executed using Google Apps Script within Google Sheets [Github repo](https://github.com/)
+The part of Data Processing is with scraping code [Github repo](https://github.com/HamedMohamed99/Cairo-Coin-Data)
 
 
 
