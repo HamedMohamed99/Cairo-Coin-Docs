@@ -241,6 +241,7 @@ In this phase, the following main tasks were completed:
 	-   **Two Interface Applications:** Two separate applications were developed, each catering to a different user group. One application is tailored for API users, while the other is designed for regular users interested in market data.
     
 	-   **React Native Web View Implementation:** Both applications were built using React Native Web View, with slight differences in user experience to simulate the experience of using native applications on mobile devices.
+	*[Github Repo](https://github.com/HamedMohamed99/Cairo-Coin-App) for the two apps*
 	
 
 		![app](https://i.ibb.co/tHPR9fc/app.png)
