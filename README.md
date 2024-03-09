@@ -153,7 +153,7 @@ graph TD;
 
 ```
 
-The part of Data Processing is with scraping code [Github repo](https://github.com/HamedMohamed99/Cairo-Coin-Data)
+Part of Data Processing is with scraping code [Github repo](https://github.com/HamedMohamed99/Cairo-Coin-Data)
 
 
 
